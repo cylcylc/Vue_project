@@ -1,0 +1,26 @@
+{
+  "name": "vite-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "echarts": "^5.3.3",
+    "lib-flexible": "^0.3.2",
+    "vant": "^3.6.1",
+    "vue": "^3.2.37",
+    "vue-router": "^4.0.13"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.3",
+    "postcss-pxtorem": "^6.0.0",
+    "sass": "^1.54.8",
+    "unplugin-vue-components": "^0.22.4",
+    "vite": "^3.0.7"
+  }
+}
